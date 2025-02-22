@@ -9,3 +9,5 @@ Added text locally
 Added text to a new bramch 
 
 Resolving a conflict
+
+Added a local conflict
