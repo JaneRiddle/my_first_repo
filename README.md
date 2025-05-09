@@ -5,4 +5,4 @@ Added text locally
 
 Added text to a new branch
 
-Resolving conflict
+Resolving conflict text in browser
